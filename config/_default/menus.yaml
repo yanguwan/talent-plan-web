@@ -27,3 +27,6 @@ main:
   - name: My Pages
     url: /#my_section
     weight: 70
+  - name: About
+    url: about/
+    weight: 80
