@@ -28,8 +28,8 @@ hero_media: teacher.png
 <br>
 
 
-Talent Plan 2022 TinySQL Learning Camp will start soon!
+Talent Plan TinySQL Learning Camp will start soon!
 
 
-<a class="github-button" href="https://github.com/pingcap/talent-plan" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course TinySQL">Star the Online TinySQL</a>
+<a class="github-button" href="https://github.com/pingcap/talent-plan" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Talent Plan">Star the Talent Plan</a>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
