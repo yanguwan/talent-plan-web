@@ -24,3 +24,6 @@ main:
   - name: Contact
     PageRef: contact/index.md
     weight: 60
+  - name: My Pages
+    url: /#my_section
+    weight: 70
