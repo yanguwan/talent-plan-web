@@ -28,5 +28,5 @@ main:
     url: /#my_section
     weight: 70
   - name: About
-    url: about/
+    PageRef: home/about.md
     weight: 80
