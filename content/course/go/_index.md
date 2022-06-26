@@ -1,26 +1,25 @@
 ---
-title: Learn to write a simple distributed relational Database 
-linkTitle: tinySQL 
-summary: A course to teach you implementing a relational Database.
+title: Master  Go Language 
+linkTitle:  go 
+summary: An external public course about go.
 date: '2021-01-24'
 type: book
 tags:
   - current
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="go.jpeg" >}}
 
 {{< toc hide_on="xl" >}}
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Fundamental {{<hl>}}Go Concepts{{</hl>}}
+- {{<h1>}}Write program in Go{{</h1>}}
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Go is almost necessary for network intensive programing.
 
 ## Courses in this program
 
@@ -30,14 +29,5 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 
 {{< mention "admin" >}}
 
-## FAQs
-
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
-{{< /spoiler >}}
-
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
