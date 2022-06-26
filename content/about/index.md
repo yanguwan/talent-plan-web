@@ -1,3 +1,4 @@
+---
 widget: about
 headless: true  
 
@@ -8,3 +9,5 @@ headless: true
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 author: 'roger'
+---
+
