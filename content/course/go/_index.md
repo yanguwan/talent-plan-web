@@ -15,7 +15,7 @@ tags:
 ## What you will learn
 
 - Fundamental {{<hl>}}Go Concepts{{</hl>}}
-- {{<h1>}}Write program in Go{{</h1>}}
+- {{<hl>}}Write program in Go{{</hl>}}
 
 ## Program overview
 

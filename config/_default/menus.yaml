@@ -36,7 +36,6 @@ main:
     parent: courses
   - name: Blog
     PageRef: post/_index.md
-    weight: 30
   - name: Learning Camps 
     url: /#my_section
     weight: 40

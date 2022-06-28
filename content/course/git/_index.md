@@ -1,7 +1,7 @@
 ---
-title: Master  Go Language 
-linkTitle:  go 
-summary: An external public course about go.
+title: Master  Git 
+linkTitle:  git 
+summary: An external public course about git.
 date: '2021-01-24'
 type: book
 tags:
@@ -15,7 +15,7 @@ tags:
 ## What you will learn
 
 - Fundamental {{<hl>}}Go Concepts{{</hl>}}
-- {{<h1>}}Write program in Go{{</h1>}}
+- {{<hl>}}Write program in Go{{</hl>}}
 
 ## Program overview
 

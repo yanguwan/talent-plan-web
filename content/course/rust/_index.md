@@ -1,6 +1,6 @@
 ---
 title: Learn to write a simple distributed relational Database 
-linkTitle: tinySQL 
+linkTitle: rust 
 summary: A course to teach you implementing a relational Database.
 date: '2021-01-24'
 type: book
