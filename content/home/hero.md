@@ -14,8 +14,8 @@ headless: true
 weight: 10
 title: Online Course TinySQL Learning Camp
 cta_alt:
-  url:'https://github.com/talent-plan/tinysql'
-  label: View TinysQL
+  url: 'https://github.com/talent-plan/tinysql'
+  label: View TinySQL
 design:
   background:
     gradient_angle: 0
