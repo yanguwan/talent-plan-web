@@ -37,12 +37,9 @@ main:
   - name: Blog
     PageRef: post/_index.md
     weight: 30
+  - name: Learning Camps 
+    url: /#my_section
+    weight: 40
   - name: Contact
     PageRef: contact/index.md
-    weight: 60
-  - name: My Pages
-    url: /#my_section
-    weight: 70
-  - name: About
-    PageRef: about/index.md
-    weight: 80
+    weight: 50

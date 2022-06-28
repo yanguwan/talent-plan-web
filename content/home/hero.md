@@ -5,14 +5,14 @@ advanced:
   css_class: fullscreen
 widget: hero
 cta:
-  url: "#courses"
-  label: Explore our courses
+  url: "https://forms.pingcap.com/f/1f03e077-51be-4f62-b2cc-cabc092d58d4"
+  label: Enroll the learning camp 
   icon_pack: fas
   icon: user-graduate
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: Online Course Learning Camp
+title: Online Course TinySQL Learning Camp
 cta_alt:
   ? url
   ? label
@@ -22,7 +22,7 @@ design:
     gradient_start: rgb(224,223,255)
     gradient_end: rgb(153,238,255)
     text_color_light: false
-hero_media: teacher.png
+hero_media: tidb.png
 ---
 
 <br>

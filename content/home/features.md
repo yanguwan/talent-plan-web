@@ -3,18 +3,18 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: ✨ Teach _anything_ with
+subtitle: ✨ Learn _Data Storage_ with
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
-    name: Slides
-    description:
-  - icon: video
+    name: Mentors 
+    description: Equiped with high quality of mentoring
+  - icon: books 
     icon_pack: fas
-    name: Video
-    description:
+    name: Multi-forms 
+    description: Code E-documents and books
   - icon: code
     icon_pack: fas
-    name: Math & Code
-    description:
+    name: Programming 
+    description: Real programing and test your code
 ---
