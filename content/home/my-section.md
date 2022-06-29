@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<a href="#learning_campus"></a>
+<a name="learning_camps"></a>
 <table width="100%" border="0" cellspacing="1" cellpadding="4" bgcolor="#cccccc" align="center">
   
   <tr>
