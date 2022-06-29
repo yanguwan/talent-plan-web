@@ -8,11 +8,11 @@ feature:
   - icon: chalkboard-teacher
     icon_pack: fas
     name: Mentors 
-    description: Equiped with high quality of mentoring
-  - icon: books 
+    description: Equipped with high quality of mentoring
+  - icon: camera-retro 
     icon_pack: fas
     name: Multi-forms 
-    description: Code E-documents and books
+    description: Code,E-documents and Books
   - icon: code
     icon_pack: fas
     name: Programming 
