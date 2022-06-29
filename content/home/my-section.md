@@ -13,11 +13,11 @@ design:
 <table width="100%" border="0" cellspacing="1" cellpadding="4" bgcolor="#cccccc" align="center">
   
   <tr>
-  	 <th width="10%"  rowspan="2">#</th>
-  	 <th width="10%"  rowspan="2">Date</th>
-     <th width="40%"  rowspan="2">Descripton</th>
-     <th width="20%"  rowspan="2">Status</th>
-     <th width="20%"  rowspan="2">Details</th>
+  	 <th width="10%"  rowspan="1">#</th>
+  	 <th width="10%"  rowspan="1">Date</th>
+     <th width="40%"  rowspan="1">Descripton</th>
+     <th width="20%"  rowspan="1">Status</th>
+     <th width="20%"  rowspan="1">Details</th>
   </tr>
   
   <tr>
